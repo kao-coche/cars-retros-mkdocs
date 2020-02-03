@@ -1,5 +1,5 @@
 site_name: Cars Retros
 
 nav:
-    - Home: index.md
-    - About: about.md
+- Home: 'README.md'
+- Debug: 'debug/index.md'
